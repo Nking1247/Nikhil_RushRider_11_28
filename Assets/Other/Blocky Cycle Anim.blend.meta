@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: c365c0e2688aa444a892fd59a2ac7424
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -623603649343465320
+    second: Bicycle
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bike
+    second: {fileID: 2100000, guid: 24a95019d89e4264c8b37c402aef5c1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel
+    second: {fileID: 2100000, guid: 15b64fa77e0cd914ba8a93dae767040f, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 1
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Bicycle
+      takeName: Scene
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Blocky Cycle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Light
+      parentName: Blocky Cycle(Clone)
+      position: {x: -4.0762453, y: 5.903862, z: -1.005454}
+      rotation: {x: 0.52327543, y: -0.34203398, z: 0.7269423, w: 0.28416628}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Camera
+      parentName: Blocky Cycle(Clone)
+      position: {x: -7.3588915, y: 4.958309, z: 6.925791}
+      rotation: {x: 0.09062847, y: 0.89379627, z: -0.20997298, w: 0.3857799}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: bike_pedal_R
+      parentName: Blocky Cycle(Clone)
+      position: {x: 0.08453676, y: 0.27603433, z: 0.08996326}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bike_pedal_L
+      parentName: Blocky Cycle(Clone)
+      position: {x: -0.0724138, y: 0.27603433, z: -0.24550399}
+      rotation: {x: -0.7205864, y: 0, z: -0, w: 0.69336516}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: bike_seat
+      parentName: Blocky Cycle(Clone)
+      position: {x: 0.0000000010194255, y: 0.8127542, z: -0.24678902}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bike_chain_set
+      parentName: Blocky Cycle(Clone)
+      position: {x: -0, y: 0.27595487, z: -0.078151196}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bike_wheel_front
+      parentName: Blocky Cycle(Clone)
+      position: {x: -0, y: 0.3223752, z: 0.5609597}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999998}
+    - name: bike_chain
+      parentName: Blocky Cycle(Clone)
+      position: {x: 0.016443513, y: 0.031434312, z: -0.008986742}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bike_wheel_rear
+      parentName: Blocky Cycle(Clone)
+      position: {x: -0, y: 0.3223752, z: -0.49010003}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999998}
+    - name: bike_seat.001
+      parentName: Blocky Cycle(Clone)
+      position: {x: 0.0000000010194255, y: 0.8127542, z: -0.24678902}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bike_seat.002
+      parentName: Blocky Cycle(Clone)
+      position: {x: 0.0000000010194255, y: 0.7375186, z: -0.22659011}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bike_seat.003
+      parentName: Blocky Cycle(Clone)
+      position: {x: -0.000015639416, y: 0.943322, z: 0.39786947}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bike_seat.004
+      parentName: Blocky Cycle(Clone)
+      position: {x: -0.0026862423, y: 0.5285576, z: 0.45835853}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bike_seat.005
+      parentName: Blocky Cycle(Clone)
+      position: {x: -0.0026862423, y: 0.5285576, z: 0.45835853}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bike_seat.006
+      parentName: Blocky Cycle(Clone)
+      position: {x: 0.0000000010194255, y: 0.8127542, z: -0.24678902}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bike_seat.007
+      parentName: Blocky Cycle(Clone)
+      position: {x: 0.0000000010194255, y: 0.8127542, z: -0.24678902}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bike_chain_set.001
+      parentName: Blocky Cycle(Clone)
+      position: {x: 0.05019619, y: 0.32541963, z: -0.4897027}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.2796788, y: 0.2796788, z: 0.2796788}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: e9873f570dcff0c45abeaf650d034a90,
+    type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2947 @@
+fileFormatVersion: 2
+guid: ca026a41e5e1931459aa696949775e2d
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 1540090686371577091
+    second: bike_pedal_R|Armature|Take 001|BaseLayer
+  - first:
+      74: -7962919014127936732
+    second: bike_pedal_R|bike_chain_setAction
+  - first:
+      74: 3370250827793958556
+    second: bike_pedal_R|bike_pedal_LAction
+  - first:
+      74: -4935947387410084167
+    second: bike_pedal_R|bike_pedal_RAction
+  - first:
+      74: -8721620535032508979
+    second: bike_pedal_R|bike_wheel_frontAction
+  - first:
+      74: 621368152904683780
+    second: bike_pedal_R|bike_wheel_rearAction
+  - first:
+      74: 6152766074793367365
+    second: bike_pedal_R|CubeAction
+  - first:
+      74: 8179496873003462722
+    second: bike_pedal_R|rp_nathan_animated_003_walking_geo.001Action
+  - first:
+      74: -1615021200525276573
+    second: bike_pedal_L|Armature|Take 001|BaseLayer
+  - first:
+      74: 7578165999168507309
+    second: bike_pedal_L|bike_chain_setAction
+  - first:
+      74: -6739939172275780169
+    second: bike_pedal_L|bike_pedal_LAction
+  - first:
+      74: 4861086366701510270
+    second: bike_pedal_L|bike_pedal_RAction
+  - first:
+      74: 5022913220620659320
+    second: bike_pedal_L|bike_wheel_frontAction
+  - first:
+      74: 2222425913668348288
+    second: bike_pedal_L|bike_wheel_rearAction
+  - first:
+      74: 8564802306539309025
+    second: bike_pedal_L|CubeAction
+  - first:
+      74: 7384220439593316868
+    second: bike_pedal_L|rp_nathan_animated_003_walking_geo.001Action
+  - first:
+      74: -1257258187656687034
+    second: bike_chain_set|Armature|Take 001|BaseLayer
+  - first:
+      74: 2250443454097716758
+    second: bike_chain_set|bike_chain_setAction
+  - first:
+      74: -8363873324497492625
+    second: bike_chain_set|bike_pedal_LAction
+  - first:
+      74: 2629154482150751622
+    second: bike_chain_set|bike_pedal_RAction
+  - first:
+      74: -3974951434961137695
+    second: bike_chain_set|bike_wheel_frontAction
+  - first:
+      74: 2666065731153296243
+    second: bike_chain_set|bike_wheel_rearAction
+  - first:
+      74: -7637382739214161075
+    second: bike_chain_set|CubeAction
+  - first:
+      74: 1289454660938082790
+    second: bike_chain_set|rp_nathan_animated_003_walking_geo.001Action
+  - first:
+      74: 3497808602850029433
+    second: bike_wheel_front|Armature|Take 001|BaseLayer
+  - first:
+      74: 2290459257085594242
+    second: bike_wheel_front|bike_chain_setAction
+  - first:
+      74: -2719689966697633612
+    second: bike_wheel_front|bike_pedal_LAction
+  - first:
+      74: -6582811096044603949
+    second: bike_wheel_front|bike_pedal_RAction
+  - first:
+      74: -664029590292391649
+    second: bike_wheel_front|bike_wheel_frontAction
+  - first:
+      74: -2928027364833020132
+    second: bike_wheel_front|bike_wheel_rearAction
+  - first:
+      74: 9020147608895108745
+    second: bike_wheel_front|CubeAction
+  - first:
+      74: 4282823359530418870
+    second: bike_wheel_front|rp_nathan_animated_003_walking_geo.001Action
+  - first:
+      74: -9106409821550005406
+    second: bike_wheel_rear|Armature|Take 001|BaseLayer
+  - first:
+      74: -89215420870740440
+    second: bike_wheel_rear|bike_chain_setAction
+  - first:
+      74: -2378273800736027355
+    second: bike_wheel_rear|bike_pedal_LAction
+  - first:
+      74: 331411176671748545
+    second: bike_wheel_rear|bike_pedal_RAction
+  - first:
+      74: 3595416749993559031
+    second: bike_wheel_rear|bike_wheel_frontAction
+  - first:
+      74: 3373830041510517328
+    second: bike_wheel_rear|bike_wheel_rearAction
+  - first:
+      74: 2200219705002336834
+    second: bike_wheel_rear|CubeAction
+  - first:
+      74: -6961641870003870699
+    second: bike_wheel_rear|rp_nathan_animated_003_walking_geo.001Action
+  - first:
+      74: 4781951162920444690
+    second: Armature|ArmatureAction
+  - first:
+      74: 5862543501114407046
+    second: Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: -3711419640922317186
+    second: Armature|bike_chain_setAction
+  - first:
+      74: -4856479603807407603
+    second: Armature|bike_pedal_LAction
+  - first:
+      74: 4063128632065645175
+    second: Armature|bike_pedal_RAction
+  - first:
+      74: 1747312079341787909
+    second: Armature|bike_wheel_frontAction
+  - first:
+      74: 5134102100876466834
+    second: Armature|bike_wheel_rearAction
+  - first:
+      74: 5449073193131188545
+    second: Armature|CubeAction
+  - first:
+      74: -6313795848410871455
+    second: Armature|rp_nathan_animated_003_walking_geo.001Action
+  - first:
+      74: 87131226033342731
+    second: rp_nathan_animated_003_walking_geo.001|Armature|Take 001|BaseLayer
+  - first:
+      74: 665650416414553139
+    second: rp_nathan_animated_003_walking_geo.001|bike_chain_setAction
+  - first:
+      74: -5501031012922404651
+    second: rp_nathan_animated_003_walking_geo.001|bike_pedal_LAction
+  - first:
+      74: -6128644739266954662
+    second: rp_nathan_animated_003_walking_geo.001|bike_pedal_RAction
+  - first:
+      74: 6125393711601101038
+    second: rp_nathan_animated_003_walking_geo.001|bike_wheel_frontAction
+  - first:
+      74: 7399169776443971632
+    second: rp_nathan_animated_003_walking_geo.001|bike_wheel_rearAction
+  - first:
+      74: -1929742191755685761
+    second: rp_nathan_animated_003_walking_geo.001|CubeAction
+  - first:
+      74: -884992697655572419
+    second: rp_nathan_animated_003_walking_geo.001|rp_nathan_animated_003_walking_geo.001Action
+  - first:
+      74: -1313844394892892978
+    second: Cube|Armature|Take 001|BaseLayer
+  - first:
+      74: -4245338455760102180
+    second: Cube|bike_chain_setAction
+  - first:
+      74: -1336675570039589491
+    second: Cube|bike_pedal_LAction
+  - first:
+      74: -8477317285089455197
+    second: Cube|bike_pedal_RAction
+  - first:
+      74: -8320024122747063958
+    second: Cube|bike_wheel_frontAction
+  - first:
+      74: 1340547730488106786
+    second: Cube|bike_wheel_rearAction
+  - first:
+      74: -3999578356269874737
+    second: Cube|CubeAction
+  - first:
+      74: -4626429475721877633
+    second: Cube|rp_nathan_animated_003_walking_geo.001Action
+  - first:
+      74: -8612994791844490777
+    second: Armature|ArmatureAction (1)
+  - first:
+      74: -2942385513996858162
+    second: Cube|CubeAction (1)
+  - first:
+      74: -6163974202272359319
+    second: Armature|ArmatureAction (2)
+  - first:
+      74: -491641372885837479
+    second: bike_pedal_R|rp_nathan_animated_003_walking_geo.001Action (1)
+  - first:
+      74: 9014791020905705299
+    second: bike_pedal_R|bike_wheel_rearAction (1)
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bike
+    second: {fileID: 2100000, guid: d6cc4730d561c2d4789594f404f74093, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel
+    second: {fileID: 2100000, guid: d639f8a5191df4646bddca98d4522b4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: animated_003_mat
+    second: {fileID: 2100000, guid: 45d50519ea2645a47bad844f21d1909d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: delivery
+    second: {fileID: 2100000, guid: 0fd62fe4bd858754e8a603562bbaf922, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 2
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction (2)
+      takeName: Armature|ArmatureAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_R|bike_chain_setAction
+      takeName: bike_pedal_R|bike_chain_setAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_R|bike_pedal_LAction
+      takeName: bike_pedal_R|bike_pedal_LAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_R|bike_pedal_RAction
+      takeName: bike_pedal_R|bike_pedal_RAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_R|bike_wheel_frontAction
+      takeName: bike_pedal_R|bike_wheel_frontAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_R|bike_wheel_rearAction
+      takeName: bike_pedal_R|bike_wheel_rearAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_R|CubeAction
+      takeName: bike_pedal_R|CubeAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_R|rp_nathan_animated_003_walking_geo.001Action
+      takeName: bike_pedal_R|rp_nathan_animated_003_walking_geo.001Action
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_L|Armature|Take 001|BaseLayer
+      takeName: bike_pedal_L|Armature|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_L|bike_chain_setAction
+      takeName: bike_pedal_L|bike_chain_setAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_L|bike_pedal_LAction
+      takeName: bike_pedal_L|bike_pedal_LAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_L|bike_pedal_RAction
+      takeName: bike_pedal_L|bike_pedal_RAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_L|bike_wheel_frontAction
+      takeName: bike_pedal_L|bike_wheel_frontAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_L|bike_wheel_rearAction
+      takeName: bike_pedal_L|bike_wheel_rearAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_L|CubeAction
+      takeName: bike_pedal_L|CubeAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_pedal_L|rp_nathan_animated_003_walking_geo.001Action
+      takeName: bike_pedal_L|rp_nathan_animated_003_walking_geo.001Action
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_chain_set|Armature|Take 001|BaseLayer
+      takeName: bike_chain_set|Armature|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_chain_set|bike_chain_setAction
+      takeName: bike_chain_set|bike_chain_setAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_chain_set|bike_pedal_LAction
+      takeName: bike_chain_set|bike_pedal_LAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_chain_set|bike_pedal_RAction
+      takeName: bike_chain_set|bike_pedal_RAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_chain_set|bike_wheel_frontAction
+      takeName: bike_chain_set|bike_wheel_frontAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|ArmatureAction (1)
+      takeName: Armature|ArmatureAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_chain_set|CubeAction
+      takeName: bike_chain_set|CubeAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_chain_set|rp_nathan_animated_003_walking_geo.001Action
+      takeName: bike_chain_set|rp_nathan_animated_003_walking_geo.001Action
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_front|Armature|Take 001|BaseLayer
+      takeName: bike_wheel_front|Armature|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_front|bike_chain_setAction
+      takeName: bike_wheel_front|bike_chain_setAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_front|bike_pedal_LAction
+      takeName: bike_wheel_front|bike_pedal_LAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_front|bike_pedal_RAction
+      takeName: bike_wheel_front|bike_pedal_RAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_front|bike_wheel_frontAction
+      takeName: bike_wheel_front|bike_wheel_frontAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_front|bike_wheel_rearAction
+      takeName: bike_wheel_front|bike_wheel_rearAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_front|CubeAction
+      takeName: bike_wheel_front|CubeAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_front|rp_nathan_animated_003_walking_geo.001Action
+      takeName: bike_wheel_front|rp_nathan_animated_003_walking_geo.001Action
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_rear|Armature|Take 001|BaseLayer
+      takeName: bike_wheel_rear|Armature|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_rear|bike_chain_setAction
+      takeName: bike_wheel_rear|bike_chain_setAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_rear|bike_pedal_LAction
+      takeName: bike_wheel_rear|bike_pedal_LAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_rear|bike_pedal_RAction
+      takeName: bike_wheel_rear|bike_pedal_RAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_rear|bike_wheel_frontAction
+      takeName: bike_wheel_rear|bike_wheel_frontAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_rear|bike_wheel_rearAction
+      takeName: bike_wheel_rear|bike_wheel_rearAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_rear|CubeAction
+      takeName: bike_wheel_rear|CubeAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bike_wheel_rear|rp_nathan_animated_003_walking_geo.001Action
+      takeName: bike_wheel_rear|rp_nathan_animated_003_walking_geo.001Action
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature|Take 001|BaseLayer
+      takeName: Armature|Armature|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|bike_chain_setAction
+      takeName: Armature|bike_chain_setAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|bike_pedal_LAction
+      takeName: Armature|bike_pedal_LAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|bike_pedal_RAction
+      takeName: Armature|bike_pedal_RAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|bike_wheel_frontAction
+      takeName: Armature|bike_wheel_frontAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|bike_wheel_rearAction
+      takeName: Armature|bike_wheel_rearAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|CubeAction
+      takeName: Armature|CubeAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|rp_nathan_animated_003_walking_geo.001Action
+      takeName: Armature|rp_nathan_animated_003_walking_geo.001Action
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rp_nathan_animated_003_walking_geo.001|Armature|Take 001|BaseLayer
+      takeName: rp_nathan_animated_003_walking_geo.001|Armature|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rp_nathan_animated_003_walking_geo.001|bike_chain_setAction
+      takeName: rp_nathan_animated_003_walking_geo.001|bike_chain_setAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rp_nathan_animated_003_walking_geo.001|bike_pedal_LAction
+      takeName: rp_nathan_animated_003_walking_geo.001|bike_pedal_LAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rp_nathan_animated_003_walking_geo.001|bike_pedal_RAction
+      takeName: rp_nathan_animated_003_walking_geo.001|bike_pedal_RAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rp_nathan_animated_003_walking_geo.001|bike_wheel_frontAction
+      takeName: rp_nathan_animated_003_walking_geo.001|bike_wheel_frontAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rp_nathan_animated_003_walking_geo.001|bike_wheel_rearAction
+      takeName: rp_nathan_animated_003_walking_geo.001|bike_wheel_rearAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rp_nathan_animated_003_walking_geo.001|CubeAction
+      takeName: rp_nathan_animated_003_walking_geo.001|CubeAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rp_nathan_animated_003_walking_geo.001|rp_nathan_animated_003_walking_geo.001Action
+      takeName: rp_nathan_animated_003_walking_geo.001|rp_nathan_animated_003_walking_geo.001Action
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cube|Armature|Take 001|BaseLayer
+      takeName: Cube|Armature|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cube|bike_chain_setAction
+      takeName: Cube|bike_chain_setAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cube|bike_pedal_LAction
+      takeName: Cube|bike_pedal_LAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cube|bike_pedal_RAction
+      takeName: Cube|bike_pedal_RAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cube|bike_wheel_frontAction
+      takeName: Cube|bike_wheel_frontAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cube|bike_wheel_rearAction
+      takeName: Cube|bike_wheel_rearAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cube|CubeAction
+      takeName: Cube|CubeAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cube|rp_nathan_animated_003_walking_geo.001Action
+      takeName: Cube|rp_nathan_animated_003_walking_geo.001Action
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Blocky Cycle Anim1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Light
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: -4.0762453, y: 5.903862, z: -1.005454}
+      rotation: {x: 0.52327543, y: -0.34203398, z: 0.72694236, w: 0.28416628}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Camera
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: -7.3588915, y: 4.958309, z: 6.925791}
+      rotation: {x: 0.0906284, y: 0.8937962, z: -0.20997299, w: 0.38577998}
+      scale: {x: 100, y: 100.00001, z: 99.99999}
+    - name: bike_pedal_R
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: 0.08453676, y: 0.27510774, z: 0.089960754}
+      rotation: {x: -0.7184278, y: 2.28523e-16, z: -6.334136e-16, w: 0.6956015}
+      scale: {x: 100, y: 100, z: 100}
+    - name: bike_pedal_L
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: -0.0724138, y: 0.2769596, z: -0.24550134}
+      rotation: {x: -0.6904559, y: 3.067152e-16, z: -5.872179e-16, w: 0.7233745}
+      scale: {x: 100, y: 99.99999, z: 99.99999}
+    - name: bike_seat
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: 0.0000000010194255, y: 0.8127542, z: -0.24678901}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: bike_chain_set
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: -0, y: 0.27595633, z: -0.078151554}
+      rotation: {x: -0.705152, y: 0, z: -0, w: 0.7090562}
+      scale: {x: 100, y: 100, z: 100}
+    - name: bike_wheel_front
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: -0, y: 0.3223752, z: 0.5609597}
+      rotation: {x: -0.38268277, y: 0, z: -0, w: 0.9238798}
+      scale: {x: 99.999985, y: 99.999985, z: 99.999985}
+    - name: bike_chain
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: 0.016443513, y: 0.031434312, z: -0.008986742}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: bike_wheel_rear
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: -0, y: 0.3223752, z: -0.4901}
+      rotation: {x: -0.38268277, y: 0, z: -0, w: 0.9238798}
+      scale: {x: 99.999985, y: 99.999985, z: 99.999985}
+    - name: bike_seat.001
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: 0.0000000010194255, y: 0.8127542, z: -0.24678901}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: bike_seat.002
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: 0.0000000010194255, y: 0.7375186, z: -0.22659011}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: bike_seat.003
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: -0.000015639416, y: 0.94332194, z: 0.39786944}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: bike_seat.004
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: -0.0026862423, y: 0.5285576, z: 0.45835853}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: bike_seat.005
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: -0.0026862423, y: 0.5285576, z: 0.45835853}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: bike_seat.006
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: 0.0000000010194255, y: 0.8127542, z: -0.24678901}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: bike_seat.007
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: 0.0000000010194255, y: 0.8127542, z: -0.24678901}
+      rotation: {x: -0.7071068, y: 0.000000003705541, z: -0.0000000049390114, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: bike_chain_set.001
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: 0.05019619, y: 0.3254196, z: -0.48970267}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 27.967878, y: 27.967878, z: 27.967878}
+    - name: rp_nathan_animated_003_walking_geo
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: -0.0000000057256893, y: 0.015379725, z: -0.16148706}
+      rotation: {x: 0.00000008146034, y: 7.1052266e-15, z: -4.9159618e-30, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animated
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character
+      parentName: animated
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: character
+      position: {x: -3.4149843e-18, y: 0.015379694, z: -0.16148706}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_root
+      parentName: Armature
+      position: {x: 8.234433e-19, y: -0.0037084734, z: -0.047734927}
+      rotation: {x: 0.000000010672238, y: 3.655026e-11, z: 0.0000000017740497, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: rp_nathan_animated_003_walking_hip
+      parentName: rp_nathan_animated_003_walking_root
+      position: {x: -0.000000031112453, y: 0.9474869, z: 0.20922174}
+      rotation: {x: -0.49999994, y: 0.5, z: -0.5000001, w: 0.50000006}
+      scale: {x: 0.99999976, y: 0.9999996, z: 0.9999997}
+    - name: rp_nathan_animated_003_walking_spine_01
+      parentName: rp_nathan_animated_003_walking_hip
+      position: {x: -0.14817938, y: -0.02773475, z: -0.0017305859}
+      rotation: {x: -0.000000014901161, y: -0, z: 0.000000014901161, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_spine_02
+      parentName: rp_nathan_animated_003_walking_spine_01
+      position: {x: -0.14935523, y: 0.000000014267862, z: -0.000000011175871}
+      rotation: {x: -0.000000044703484, y: 4.440892e-16, z: 0.000000014901161, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.000001}
+    - name: rp_nathan_animated_003_walking_spine_03
+      parentName: rp_nathan_animated_003_walking_spine_02
+      position: {x: -0.14935507, y: 0.000000011697411, z: -3.352761e-10}
+      rotation: {x: -0.000000014901152, y: 0.00000001490117, z: -0.0000001490116,
+        w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999998}
+    - name: rp_nathan_animated_003_walking_neck
+      parentName: rp_nathan_animated_003_walking_spine_03
+      position: {x: -0.14935516, y: 0.00000016609206, z: -0.000000018924474}
+      rotation: {x: 0.000000013798599, y: -0.00000004942688, z: 0.06380394, w: 0.9979625}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_head
+      parentName: rp_nathan_animated_003_walking_neck
+      position: {x: -0.1151964, y: -0.00000017706304, z: 0.000000007450581}
+      rotation: {x: 1.2144596e-10, y: 0.00000003360532, z: -0.06380379, w: 0.9979625}
+      scale: {x: 0.9999999, y: 1.0000004, z: 0.99999994}
+    - name: rp_nathan_animated_003_walking_head_end
+      parentName: rp_nathan_animated_003_walking_head
+      position: {x: -0.19380079, y: 0.00000008758623, z: -0.0000000080466265}
+      rotation: {x: 0.00000004470349, y: 3.5527137e-15, z: -0.000000014901161, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999998}
+    - name: rp_nathan_animated_003_walking_head_end_end
+      parentName: rp_nathan_animated_003_walking_head_end
+      position: {x: -0, y: 0.10511873, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_jaw
+      parentName: rp_nathan_animated_003_walking_head
+      position: {x: -0.007918197, y: -0.015947891, z: 0.00005772799}
+      rotation: {x: 0.00034311294, y: -0.0006279575, z: 0.87743634, w: 0.4796926}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1}
+    - name: rp_nathan_animated_003_walking_jaw_end
+      parentName: rp_nathan_animated_003_walking_jaw
+      position: {x: -0.089027695, y: 0.000000025108456, z: -0.000000009685754}
+      rotation: {x: 0.000000011888913, y: 0.000000040337905, z: 0.00000009624084,
+        w: 1}
+      scale: {x: 1.0000006, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_jaw_end_end
+      parentName: rp_nathan_animated_003_walking_jaw_end
+      position: {x: -0, y: 0.08902755, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_eye_l
+      parentName: rp_nathan_animated_003_walking_head
+      position: {x: -0.063112065, y: -0.073314734, z: -0.03086186}
+      rotation: {x: -0.0084510315, y: -0.008450816, z: 0.7070581, w: 0.70705456}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_eye_end_l
+      parentName: rp_nathan_animated_003_walking_eye_l
+      position: {x: -0.012223457, y: -0.000000001490116, z: -0.0000000011920929}
+      rotation: {x: -0.000000020954756, y: -0.000000021420417, z: 0.000000017789715,
+        w: 1}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1}
+    - name: rp_nathan_animated_003_walking_eye_end_l_end
+      parentName: rp_nathan_animated_003_walking_eye_end_l
+      position: {x: -0, y: 0.01222351, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_eye_r
+      parentName: rp_nathan_animated_003_walking_head
+      position: {x: -0.063516386, y: -0.07233848, z: 0.027840061}
+      rotation: {x: 0.00000063819334, y: -0.00000069779804, z: 0.7071068, w: 0.70710677}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1}
+    - name: rp_nathan_animated_003_walking_eye_end_r
+      parentName: rp_nathan_animated_003_walking_eye_r
+      position: {x: -0.013901798, y: -0.00000013479962, z: -4.4703483e-10}
+      rotation: {x: -0.000000021073447, y: -0.000000021073447, z: 4.643497e-13, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_eye_end_r_end
+      parentName: rp_nathan_animated_003_walking_eye_end_r
+      position: {x: -0, y: 0.013901825, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_mouth_l
+      parentName: rp_nathan_animated_003_walking_head
+      position: {x: 0.005835302, y: -0.08567122, z: -0.027327329}
+      rotation: {x: -0.27059838, y: 0.2705983, z: 0.6532814, w: 0.6532814}
+      scale: {x: 1.0000005, y: 1, z: 1.0000005}
+    - name: rp_nathan_animated_003_walking_mouth_l_end
+      parentName: rp_nathan_animated_003_walking_mouth_l
+      position: {x: -0, y: 0.10511856, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_mouth_r
+      parentName: rp_nathan_animated_003_walking_head
+      position: {x: 0.006203543, y: -0.08802442, z: 0.024369247}
+      rotation: {x: 0.27059796, y: -0.27059805, z: 0.65328157, w: 0.6532815}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: rp_nathan_animated_003_walking_mouth_r_end
+      parentName: rp_nathan_animated_003_walking_mouth_r
+      position: {x: -0, y: 0.105118714, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_eyelid_l
+      parentName: rp_nathan_animated_003_walking_head
+      position: {x: -0.063112065, y: -0.073314734, z: -0.030861856}
+      rotation: {x: 0.00000007678297, y: 0.00000020173704, z: 0.6154136, w: 0.7882044}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1.0000002}
+    - name: rp_nathan_animated_003_walking_eyelid_end_l
+      parentName: rp_nathan_animated_003_walking_eyelid_l
+      position: {x: -0.016799554, y: 0.00000010894611, z: -0.000000002682209}
+      rotation: {x: -0.000000013191251, y: -0.000000065321345, z: 0.00000029802317,
+        w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_eyelid_end_l_end
+      parentName: rp_nathan_animated_003_walking_eyelid_end_l
+      position: {x: -0, y: 0.016799487, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_eyelid_r
+      parentName: rp_nathan_animated_003_walking_head
+      position: {x: -0.063516386, y: -0.07233848, z: 0.027840061}
+      rotation: {x: 0.00000007637509, y: 0.00000020122053, z: 0.6240793, w: 0.781361}
+      scale: {x: 1, y: 1.0000001, z: 1.0000004}
+    - name: rp_nathan_animated_003_walking_eyelid_end_r
+      parentName: rp_nathan_animated_003_walking_eyelid_r
+      position: {x: -0.018432315, y: -0.00000015185215, z: -0.0000000031292438}
+      rotation: {x: -0.00000007403136, y: -0.00000022216324, z: -0.6240794, w: 0.78136086}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_eyelid_end_r_end
+      parentName: rp_nathan_animated_003_walking_eyelid_end_r
+      position: {x: -0, y: 0.018433085, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_eyebrow_l
+      parentName: rp_nathan_animated_003_walking_head
+      position: {x: -0.073504634, y: -0.10260648, z: -0.018699434}
+      rotation: {x: -0.2705979, y: 0.65328157, z: 0.6532815, w: 0.270598}
+      scale: {x: 1.0000008, y: 1.0000001, z: 1.0000005}
+    - name: rp_nathan_animated_003_walking_eyebrow_l_end
+      parentName: rp_nathan_animated_003_walking_eyebrow_l
+      position: {x: -0, y: 0.10511852, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_eyebrow_r
+      parentName: rp_nathan_animated_003_walking_head
+      position: {x: -0.0739529, y: -0.10115203, z: 0.019572206}
+      rotation: {x: 0.27059796, y: -0.6532815, z: 0.65328157, w: 0.27059802}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1}
+    - name: rp_nathan_animated_003_walking_eyebrow_r_end
+      parentName: rp_nathan_animated_003_walking_eyebrow_r
+      position: {x: -0, y: 0.1051187, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_shoulder_l
+      parentName: rp_nathan_animated_003_walking_spine_03
+      position: {x: -0.13216661, y: 0.017880548, z: -0.058078893}
+      rotation: {x: 0.00000016677959, y: -0.7071069, z: 0.00000015532383, w: 0.70710677}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+    - name: rp_nathan_animated_003_walking_upperarm_l
+      parentName: rp_nathan_animated_003_walking_shoulder_l
+      position: {x: -0.13644086, y: 0.000000085830685, z: 0.00000022411346}
+      rotation: {x: -0.000000016853347, y: 0.000000059604638, z: -0.000000016853347,
+        w: 1}
+      scale: {x: 0.9999996, y: 1.0000012, z: 1.0000005}
+    - name: rp_nathan_animated_003_walking_lowerarm_l
+      parentName: rp_nathan_animated_003_walking_upperarm_l
+      position: {x: -0.26680195, y: 0, z: 0.000000007152557}
+      rotation: {x: -0.00000006179588, y: -0.000000059604638, z: 0.00000002249782,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000011, z: 1.0000008}
+    - name: rp_nathan_animated_003_walking_hand_l
+      parentName: rp_nathan_animated_003_walking_lowerarm_l
+      position: {x: -0.25837326, y: -0.00000015258789, z: -0.000000114440915}
+      rotation: {x: 0.70710677, y: 0.000000025811076, z: -0.00000006134128, w: -0.7071068}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000007}
+    - name: rp_nathan_animated_003_walking_thumb_01_l
+      parentName: rp_nathan_animated_003_walking_hand_l
+      position: {x: -0.0548427, y: 0.013506193, z: -0.032953743}
+      rotation: {x: -0.63452613, y: 0.27887762, z: -0.2077563, w: -0.6902472}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000006}
+    - name: rp_nathan_animated_003_walking_thumb_02_l
+      parentName: rp_nathan_animated_003_walking_thumb_01_l
+      position: {x: -0.03746268, y: -0.000000019073486, z: 0.000000009536743}
+      rotation: {x: 0.012414065, y: 0.022078628, z: -0.027974762, w: 0.99928766}
+      scale: {x: 1.0000002, y: 0.9999997, z: 0.9999992}
+    - name: rp_nathan_animated_003_walking_thumb_03_l
+      parentName: rp_nathan_animated_003_walking_thumb_02_l
+      position: {x: -0.032333326, y: 0.00000004053116, z: -0.000000042915342}
+      rotation: {x: -0, y: -0.00000005960463, z: 0.00000007182824, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: rp_nathan_animated_003_walking_thumb_end_l
+      parentName: rp_nathan_animated_003_walking_thumb_03_l
+      position: {x: -0.024630532, y: -0.000000019073486, z: -0.000000057220458}
+      rotation: {x: 0.000000016763796, y: -0.000000059604645, z: -0.000000081141465,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_thumb_end_l_end
+      parentName: rp_nathan_animated_003_walking_thumb_end_l
+      position: {x: -0, y: 0.024630431, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_index_01_l
+      parentName: rp_nathan_animated_003_walking_hand_l
+      position: {x: -0.10616112, y: 0.0054596234, z: -0.026380977}
+      rotation: {x: -0, y: -1.7763566e-15, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 0.99999994}
+    - name: rp_nathan_animated_003_walking_index_02_l
+      parentName: rp_nathan_animated_003_walking_index_01_l
+      position: {x: -0.042000875, y: -0.000000076293944, z: 0.000000038146972}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: rp_nathan_animated_003_walking_index_03_l
+      parentName: rp_nathan_animated_003_walking_index_02_l
+      position: {x: -0.024214543, y: 0.000000019073486, z: -0.0000000667572}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000002}
+    - name: rp_nathan_animated_003_walking_index_end_l
+      parentName: rp_nathan_animated_003_walking_index_03_l
+      position: {x: -0.023469, y: -0.000000042915342, z: -0.000000009536743}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_index_end_l_end
+      parentName: rp_nathan_animated_003_walking_index_end_l
+      position: {x: -0, y: 0.023468932, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_middle_01_l
+      parentName: rp_nathan_animated_003_walking_hand_l
+      position: {x: -0.10786433, y: 0.003962307, z: -0.0063745733}
+      rotation: {x: -0, y: -1.7763566e-15, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: rp_nathan_animated_003_walking_middle_02_l
+      parentName: rp_nathan_animated_003_walking_middle_01_l
+      position: {x: -0.050210956, y: -0.000000095367426, z: -0.000000009536743}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999994, z: 1.0000002}
+    - name: rp_nathan_animated_003_walking_middle_03_l
+      parentName: rp_nathan_animated_003_walking_middle_02_l
+      position: {x: -0.02861516, y: 0.000000023841856, z: 0.000000019073486}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: rp_nathan_animated_003_walking_middle_end_l
+      parentName: rp_nathan_animated_003_walking_middle_03_l
+      position: {x: -0.02822914, y: -0.00000007867813, z: -0.000000038146972}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: rp_nathan_animated_003_walking_middle_end_l_end
+      parentName: rp_nathan_animated_003_walking_middle_end_l
+      position: {x: -0, y: 0.028229216, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_ring_01_l
+      parentName: rp_nathan_animated_003_walking_hand_l
+      position: {x: -0.106161155, y: 0.00545968, z: 0.013058204}
+      rotation: {x: -0, y: -1.7763566e-15, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: rp_nathan_animated_003_walking_ring_02_l
+      parentName: rp_nathan_animated_003_walking_ring_01_l
+      position: {x: -0.046461217, y: -0.000000009536743, z: -0.000000019073486}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000001, y: 1.0000001, z: 1.0000006}
+    - name: rp_nathan_animated_003_walking_ring_03_l
+      parentName: rp_nathan_animated_003_walking_ring_02_l
+      position: {x: -0.025422284, y: -0.000000023841856, z: 0.000000028610229}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: rp_nathan_animated_003_walking_ring_end_l
+      parentName: rp_nathan_animated_003_walking_ring_03_l
+      position: {x: -0.025081528, y: 0.000000076293944, z: 0.000000019073486}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000005}
+    - name: rp_nathan_animated_003_walking_ring_end_l_end
+      parentName: rp_nathan_animated_003_walking_ring_end_l
+      position: {x: -0, y: 0.025081635, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_pinky_01_l
+      parentName: rp_nathan_animated_003_walking_hand_l
+      position: {x: -0.104628205, y: 0.0068252278, z: 0.03015118}
+      rotation: {x: -0, y: -0, z: -0.00000008429367, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: rp_nathan_animated_003_walking_pinky_02_l
+      parentName: rp_nathan_animated_003_walking_pinky_01_l
+      position: {x: -0.034001954, y: -0.000000076293944, z: -0.000000019073486}
+      rotation: {x: 1.4973562e-22, y: -1.7763566e-15, z: 0.00000008429367, w: 1}
+      scale: {x: 1.0000012, y: 0.9999997, z: 1.0000005}
+    - name: rp_nathan_animated_003_walking_pinky_03_l
+      parentName: rp_nathan_animated_003_walking_pinky_02_l
+      position: {x: -0.0156097645, y: 0.0000000047683715, z: -0.000000038146972}
+      rotation: {x: -0, y: -0, z: 2.6598387e-37, w: 1}
+      scale: {x: 0.99999934, y: 1.0000007, z: 1}
+    - name: rp_nathan_animated_003_walking_pinky_end_l
+      parentName: rp_nathan_animated_003_walking_pinky_03_l
+      position: {x: -0.017827807, y: 0.000000014305114, z: 0.000000057220458}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_pinky_end_l_end
+      parentName: rp_nathan_animated_003_walking_pinky_end_l
+      position: {x: -0, y: 0.017827759, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_lowerarm_twist_l
+      parentName: rp_nathan_animated_003_walking_lowerarm_l
+      position: {x: -0.12918663, y: -0.00000015258789, z: -0.000000014305114}
+      rotation: {x: 0.00000007612185, y: 0.000000059604638, z: -0.00000005031869,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000008, z: 1.0000005}
+    - name: rp_nathan_animated_003_walking_lowerarm_twist_l_end
+      parentName: rp_nathan_animated_003_walking_lowerarm_twist_l
+      position: {x: -0, y: 0.1937799, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_upperarm_twist_l
+      parentName: rp_nathan_animated_003_walking_upperarm_l
+      position: {x: -0.13340095, y: 0.00000007867813, z: 0.000000011920928}
+      rotation: {x: -0.000000084451464, y: -0, z: -1.5775901e-10, w: 1}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000007}
+    - name: rp_nathan_animated_003_walking_upperarm_twist_l_end
+      parentName: rp_nathan_animated_003_walking_upperarm_twist_l
+      position: {x: -0, y: 0.20010146, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_shoulder_r
+      parentName: rp_nathan_animated_003_walking_spine_03
+      position: {x: -0.12970337, y: 0.015653724, z: 0.064908944}
+      rotation: {x: 0.70710677, y: 0.00000009121476, z: 0.7071069, w: -0.000000118725296}
+      scale: {x: 1, y: 1, z: 1.0000004}
+    - name: rp_nathan_animated_003_walking_upperarm_r
+      parentName: rp_nathan_animated_003_walking_shoulder_r
+      position: {x: 0.13685372, y: -0.000000015497207, z: -0.00000004529953}
+      rotation: {x: -0.000000014262218, y: 4.4169164e-15, z: 0.000000027884631, w: 1}
+      scale: {x: 1.0000001, y: 1.0000008, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_lowerarm_r
+      parentName: rp_nathan_animated_003_walking_upperarm_r
+      position: {x: 0.2796758, y: 0, z: -0.000000028610229}
+      rotation: {x: 0.000000011356347, y: -4.6692924e-15, z: -0.000000030790503, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: rp_nathan_animated_003_walking_hand_r
+      parentName: rp_nathan_animated_003_walking_lowerarm_r
+      position: {x: 0.25719687, y: 0.000000028610229, z: 0.00000014305114}
+      rotation: {x: -0.70710677, y: 0.000000041502823, z: -0.000000027747554, w: 0.7071067}
+      scale: {x: 1, y: 1.0000004, z: 1.0000007}
+    - name: rp_nathan_animated_003_walking_thumb_01_r
+      parentName: rp_nathan_animated_003_walking_hand_r
+      position: {x: 0.046956975, y: -0.0149028655, z: 0.032128837}
+      rotation: {x: 0.63233733, y: -0.28131738, z: 0.21399905, w: 0.68935794}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000005}
+    - name: rp_nathan_animated_003_walking_thumb_02_r
+      parentName: rp_nathan_animated_003_walking_thumb_01_r
+      position: {x: 0.038125522, y: -0.000000019073486, z: 0.00000009059906}
+      rotation: {x: 0.012415199, y: 0.022076217, z: -0.027975526, w: 0.99928766}
+      scale: {x: 0.9999997, y: 0.9999998, z: 0.9999998}
+    - name: rp_nathan_animated_003_walking_thumb_03_r
+      parentName: rp_nathan_animated_003_walking_thumb_02_r
+      position: {x: 0.034732558, y: 0, z: 0.0000000333786}
+      rotation: {x: 0.000000008381903, y: -0, z: -0.00000008754432, w: 1}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999997}
+    - name: rp_nathan_animated_003_walking_thumb_end_r
+      parentName: rp_nathan_animated_003_walking_thumb_03_r
+      position: {x: 0.025985975, y: 0.000000019073486, z: -0.000000057220458}
+      rotation: {x: -0.00000007171184, y: 0.00000005215405, z: 0.00000003620517, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+    - name: rp_nathan_animated_003_walking_thumb_end_r_end
+      parentName: rp_nathan_animated_003_walking_thumb_end_r
+      position: {x: -0, y: 0.02598587, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_index_01_r
+      parentName: rp_nathan_animated_003_walking_hand_r
+      position: {x: 0.10704576, y: -0.0051551578, z: 0.026893139}
+      rotation: {x: 0.000000029802322, y: -0.000000063220256, z: 0.000000021073431,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: rp_nathan_animated_003_walking_index_02_r
+      parentName: rp_nathan_animated_003_walking_index_01_r
+      position: {x: 0.041544832, y: 0.000000038146972, z: -0.000000027418135}
+      rotation: {x: -0.000000029802322, y: 0.00000004214684, z: -4.7010333e-15, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_index_03_r
+      parentName: rp_nathan_animated_003_walking_index_02_r
+      position: {x: 0.023700606, y: 0.000000010728836, z: 0.000000014305114}
+      rotation: {x: -0, y: -0.000000063220256, z: 0.00000002107343, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_index_end_r
+      parentName: rp_nathan_animated_003_walking_index_03_r
+      position: {x: 0.023030559, y: 0.000000011920928, z: -0.0000000023841857}
+      rotation: {x: 0.000000029802322, y: 0.000000021073415, z: -0.000000021073426,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+    - name: rp_nathan_animated_003_walking_index_end_r_end
+      parentName: rp_nathan_animated_003_walking_index_end_r
+      position: {x: -0, y: 0.023030547, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_middle_01_r
+      parentName: rp_nathan_animated_003_walking_hand_r
+      position: {x: 0.10820362, y: -0.0029005432, z: 0.007688956}
+      rotation: {x: -0, y: -0, z: -1.7763566e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_middle_02_r
+      parentName: rp_nathan_animated_003_walking_middle_01_r
+      position: {x: 0.049463023, y: -0.000000030994414, z: -0.000000028610229}
+      rotation: {x: 0.000000029802322, y: -0.000000063220256, z: 0.000000021073433,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_middle_03_r
+      parentName: rp_nathan_animated_003_walking_middle_02_r
+      position: {x: 0.02777277, y: -0.000000025331973, z: -0.000000019073486}
+      rotation: {x: -0.000000029802322, y: 0.000000063220256, z: -0.000000021073433,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: rp_nathan_animated_003_walking_middle_end_r
+      parentName: rp_nathan_animated_003_walking_middle_03_r
+      position: {x: 0.027410347, y: 0.000000023841856, z: 0.000000042915342}
+      rotation: {x: -0, y: -0.000000021073417, z: 0.000000021073427, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000002}
+    - name: rp_nathan_animated_003_walking_middle_end_r_end
+      parentName: rp_nathan_animated_003_walking_middle_end_r
+      position: {x: -0, y: 0.027410278, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_ring_01_r
+      parentName: rp_nathan_animated_003_walking_hand_r
+      position: {x: 0.10704577, y: -0.0051550767, z: -0.011737301}
+      rotation: {x: -0, y: -0, z: -1.7763566e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_ring_02_r
+      parentName: rp_nathan_animated_003_walking_ring_01_r
+      position: {x: 0.045380563, y: 0.0000000500679, z: 0.0000000047683715}
+      rotation: {x: 1.4973563e-22, y: -0.000000084293674, z: 0.000000042146855, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_ring_03_r
+      parentName: rp_nathan_animated_003_walking_ring_02_r
+      position: {x: 0.024852728, y: -0.000000095367426, z: -0.000000009536743}
+      rotation: {x: -0, y: -0, z: 1.2621767e-29, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: rp_nathan_animated_003_walking_ring_end_r
+      parentName: rp_nathan_animated_003_walking_ring_03_r
+      position: {x: 0.024544494, y: -0.000000019073486, z: -0.0000000047683715}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_ring_end_r_end
+      parentName: rp_nathan_animated_003_walking_ring_end_r
+      position: {x: -0, y: 0.024544524, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_pinky_01_r
+      parentName: rp_nathan_animated_003_walking_hand_r
+      position: {x: 0.105694786, y: -0.0060275076, z: -0.02993854}
+      rotation: {x: -0, y: -0.000000084293674, z: 0.000000042146855, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_pinky_02_r
+      parentName: rp_nathan_animated_003_walking_pinky_01_r
+      position: {x: 0.035415873, y: -0.000000096559525, z: -0.000000019073486}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1}
+    - name: rp_nathan_animated_003_walking_pinky_03_r
+      parentName: rp_nathan_animated_003_walking_pinky_02_r
+      position: {x: 0.016047673, y: -0.000000009536743, z: -0.000000038146972}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_pinky_end_r
+      parentName: rp_nathan_animated_003_walking_pinky_03_r
+      position: {x: 0.018299377, y: -0.000000023841856, z: 0.000000038146972}
+      rotation: {x: -1.4973563e-22, y: 0.000000084293674, z: -0.000000042146855, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_pinky_end_r_end
+      parentName: rp_nathan_animated_003_walking_pinky_end_r
+      position: {x: -0, y: 0.018299408, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_lowerarm_twist_r
+      parentName: rp_nathan_animated_003_walking_lowerarm_r
+      position: {x: 0.12859845, y: 0.000000038146972, z: 0.00000006198883}
+      rotation: {x: -0.000000023404422, y: 3.115125e-15, z: 0.000000018742428, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: rp_nathan_animated_003_walking_lowerarm_twist_r_end
+      parentName: rp_nathan_animated_003_walking_lowerarm_twist_r
+      position: {x: -0, y: 0.19289763, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_upperarm_twist_r
+      parentName: rp_nathan_animated_003_walking_upperarm_r
+      position: {x: 0.13983801, y: 0.00000004529953, z: 0.0000000023841857}
+      rotation: {x: 0.000000009419854, y: -0.00000005960465, z: -0.000000074873846,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_upperarm_twist_r_end
+      parentName: rp_nathan_animated_003_walking_upperarm_twist_r
+      position: {x: -0, y: 0.20975678, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_upperleg_l
+      parentName: rp_nathan_animated_003_walking_hip
+      position: {x: 0.000097480486, y: -0.00000010371208, z: -0.106178164}
+      rotation: {x: -0.00000008940697, y: -0.0004592389, z: -0.00021496415, w: 0.99999994}
+      scale: {x: 0.99999964, y: 1.0000001, z: 1.0000006}
+    - name: rp_nathan_animated_003_walking_lowerleg_l
+      parentName: rp_nathan_animated_003_walking_upperleg_l
+      position: {x: 0.44422865, y: 0.00000004351139, z: 0.000000055134294}
+      rotation: {x: -0.000013620148, y: -0.000643233, z: 0.021762209, w: 0.99976295}
+      scale: {x: 1.0000014, y: 0.9999996, z: 1.0000005}
+    - name: rp_nathan_animated_003_walking_foot_l
+      parentName: rp_nathan_animated_003_walking_lowerleg_l
+      position: {x: 0.41405836, y: -0.0027611733, z: -0.043174762}
+      rotation: {x: -0.0000237957, y: -0.0011022997, z: 0.021547452, w: -0.9997673}
+      scale: {x: 0.9999996, y: 1.0000006, z: 0.9999996}
+    - name: rp_nathan_animated_003_walking_ball_l
+      parentName: rp_nathan_animated_003_walking_foot_l
+      position: {x: 0.06979881, y: -0.14263353, z: -0.0022128015}
+      rotation: {x: 0.00094024924, y: -0.0009381574, z: -0.709615, w: -0.7045885}
+      scale: {x: 0.9999999, y: 1, z: 0.9999998}
+    - name: rp_nathan_animated_003_walking_foot_end_l
+      parentName: rp_nathan_animated_003_walking_ball_l
+      position: {x: -0.062330034, y: 0.0000000038743018, z: -0.000000013560056}
+      rotation: {x: 1.7462297e-10, y: 0.00000004225876, z: -0.000000011939731, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 0.9999999}
+    - name: rp_nathan_animated_003_walking_foot_end_l_end
+      parentName: rp_nathan_animated_003_walking_foot_end_l
+      position: {x: -0, y: 0.062329978, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_lowerleg_twist_l
+      parentName: rp_nathan_animated_003_walking_lowerleg_l
+      position: {x: 0.20772676, y: -0.0016065168, z: -0.0044518784}
+      rotation: {x: 0.000000058274054, y: -0.0000000607688, z: -0.000000029250836,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_lowerleg_twist_l_end
+      parentName: rp_nathan_animated_003_walking_lowerleg_twist_l
+      position: {x: -0, y: 0.31490517, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_upperleg_twist_l
+      parentName: rp_nathan_animated_003_walking_upperleg_l
+      position: {x: 0.22211418, y: -0.000000038146972, z: 0.000000040233136}
+      rotation: {x: 0.00000002984978, y: -0.000000029802319, z: 0.000000089395, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1}
+    - name: rp_nathan_animated_003_walking_upperleg_twist_l_end
+      parentName: rp_nathan_animated_003_walking_upperleg_twist_l
+      position: {x: -0, y: 0.33317155, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_upperleg_r
+      parentName: rp_nathan_animated_003_walking_hip
+      position: {x: -0.00009760164, y: 0.0000000011920929, z: 0.10617823}
+      rotation: {x: -0.0004592836, y: 0.00000081956387, z: 0.99999994, w: 0.00021477044}
+      scale: {x: 0.9999992, y: 0.9999999, z: 1.0000006}
+    - name: rp_nathan_animated_003_walking_lowerleg_r
+      parentName: rp_nathan_animated_003_walking_upperleg_r
+      position: {x: -0.44328013, y: 0.00076786993, z: 0.015674843}
+      rotation: {x: -0.0000059899653, y: -0.00028089597, z: 0.021739058, w: 0.99976367}
+      scale: {x: 1.0000005, y: 0.99999976, z: 0.9999999}
+    - name: rp_nathan_animated_003_walking_foot_r
+      parentName: rp_nathan_animated_003_walking_lowerleg_r
+      position: {x: -0.4127273, y: -0.00000010669231, z: -0.000000099539754}
+      rotation: {x: -0.00000005971242, y: -0.0001783189, z: -0.021524427, w: 0.9997684}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.0000004}
+    - name: rp_nathan_animated_003_walking_ball_r
+      parentName: rp_nathan_animated_003_walking_foot_r
+      position: {x: -0.08193779, y: 0.1572426, z: -0.0013050413}
+      rotation: {x: -0.0004414095, y: 0.00040680583, z: 0.7153928, w: 0.69872224}
+      scale: {x: 0.99999994, y: 1.0000007, z: 1.0000001}
+    - name: rp_nathan_animated_003_walking_foot_end_r
+      parentName: rp_nathan_animated_003_walking_ball_r
+      position: {x: 0.051047146, y: 0.000000023841856, z: 0.00000024557113}
+      rotation: {x: 0.00000001347507, y: -0.00000011053632, z: 0.00000006032889, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: rp_nathan_animated_003_walking_foot_end_r_end
+      parentName: rp_nathan_animated_003_walking_foot_end_r
+      position: {x: -0, y: 0.051047087, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_lowerleg_twist_r
+      parentName: rp_nathan_animated_003_walking_lowerleg_r
+      position: {x: -0.20636377, y: -0.00000009834766, z: -0.000000056624412}
+      rotation: {x: -0.000000015218571, y: -0.0000000145810155, z: 1.7999853e-10,
+        w: 1}
+      scale: {x: 1.0000007, y: 1.000001, z: 1.0000008}
+    - name: rp_nathan_animated_003_walking_lowerleg_twist_r_end
+      parentName: rp_nathan_animated_003_walking_lowerleg_twist_r
+      position: {x: -0, y: 0.30954543, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_upperleg_twist_r
+      parentName: rp_nathan_animated_003_walking_upperleg_r
+      position: {x: -0.22098033, y: 0.00000002503395, z: -0.000000013709068}
+      rotation: {x: 4.829558e-11, y: 0.000000029773116, z: -0.00000011919665, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: rp_nathan_animated_003_walking_upperleg_twist_r_end
+      parentName: rp_nathan_animated_003_walking_upperleg_twist_r
+      position: {x: -0, y: 0.33147055, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: charactr
+      parentName: animated
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_nathan_animated_003_walking_geo.001
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: -0.016551796, y: 1.70173, z: 0.04332257}
+      rotation: {x: 0.103931256, y: 0.0011938916, z: 0.011424362, w: 0.99451816}
+      scale: {x: 1.037341, y: 1.0373411, z: 1.0373411}
+    - name: Cube
+      parentName: Blocky Cycle Anim1(Clone)
+      position: {x: -0.0053652534, y: 1.391769, z: -0.48580858}
+      rotation: {x: -0.5128083, y: -0.0008723984, z: 0.0014604973, w: 0.85850143}
+      scale: {x: 19.405245, y: 19.405245, z: 22.528126}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: animated
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
